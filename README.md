@@ -9,6 +9,8 @@ Will add information about getting this working soon.
 
 Base image used: https://hub.docker.com/r/cm2network/steamcmd/
 
+Find the image on [docker hub](https://hub.docker.com/r/ortovox/rust-version)
+
 ## Information
 
 | Steam App id | Type                                                      |
